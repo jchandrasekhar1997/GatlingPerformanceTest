@@ -3,7 +3,8 @@ package example
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 
-class BasicSimulation extends Simulation {
+class
+BasicSimulation extends Simulation {
 
   // Load VU count from system properties
   // Reference: https://docs.gatling.io/guides/passing-parameters/
